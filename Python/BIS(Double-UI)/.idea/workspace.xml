@@ -1,0 +1,1231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/BIS_Plot.py" line="29" />
+    <bookmark url="file://$PROJECT_DIR$/BIS_setcom.py" description="##################################################..." line="176" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5128926d-cacb-43ac-b261-7456b2729a63" name="Default" comment="" />
+    <ignored path="1107offline.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/BIS(201611天津版)$BIS_main.coverage" NAME="BIS_main Coverage Results" MODIFIED="1481029067646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BIS0319(Binary+Version+BIS+EEG+Mark+livePlot+offlinePlot)$BIS_main.coverage" NAME="BIS_main Coverage Results" MODIFIED="1490175585531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BIS0226(Binary)$BIS_main.coverage" NAME="BIS_main Coverage Results" MODIFIED="1488026737377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BIS0405$BIS_main.coverage" NAME="BIS_main Coverage Results" MODIFIED="1491387908677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BIS0415$BIS_main.coverage" NAME="BIS_main Coverage Results" MODIFIED="1492334730906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BIS2021(Binary)$BIS_main.coverage" NAME="BIS_main Coverage Results" MODIFIED="1487927412050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BIS0329$BIS_main.coverage" NAME="BIS_main Coverage Results" MODIFIED="1490775754574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BIS0317(Binary+Version+BIS+EEG+Mark+Plot)$BIS_main.coverage" NAME="BIS_main Coverage Results" MODIFIED="1489757648127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BIS0307(Binary+Version+BIS+EEG+Mark+Plot)$BIS_main.coverage" NAME="BIS_main Coverage Results" MODIFIED="1489050404231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BIS0326$BIS_main.coverage" NAME="BIS_main Coverage Results" MODIFIED="1490617061746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BIS0404$BIS_main.coverage" NAME="BIS_main Coverage Results" MODIFIED="1491302595392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BIS0227(Binary)$BIS_main.coverage" NAME="BIS_main Coverage Results" MODIFIED="1488030999580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BIS0228(Binary+Version+BIS+EEG)$BIS_main.coverage" NAME="BIS_main Coverage Results" MODIFIED="1488109643099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BIS0309(Binary+Version+BIS+EEG+Mark+Plot)$BIS_main.coverage" NAME="BIS_main Coverage Results" MODIFIED="1489750688444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BIS0326$BIS_port.coverage" NAME="BIS_port Coverage Results" MODIFIED="1490603872517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BIS0306(Binary+Version+BIS+EEG+Mark+Plot)$BIS_main.coverage" NAME="BIS_main Coverage Results" MODIFIED="1488784927118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BIS0307(Binary+Version+BIS+EEG+Mark+Plot)$BIS_offline.coverage" NAME="BIS_offline Coverage Results" MODIFIED="1488796090670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BIS0228(Binary)$BIS_main.coverage" NAME="BIS_main Coverage Results" MODIFIED="1488102934618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BIS0322(Binary+Version+BIS+EEG+Mark+livePlot+offlinePlot)$BIS_main.coverage" NAME="BIS_main Coverage Results" MODIFIED="1490251935087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BIS0317(Binary+Version+BIS+EEG+Mark+livePlot+offlinePlot)$BIS_main.coverage" NAME="BIS_main Coverage Results" MODIFIED="1489915740894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BIS0329(精简版)$BIS_main.coverage" NAME="BIS_main Coverage Results" MODIFIED="1490964706458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BIS0423$BIS_main.coverage" NAME="BIS_main Coverage Results" MODIFIED="1492918908380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BIS1107offline$BIS_main.coverage" NAME="BIS_main Coverage Results" MODIFIED="1481017055456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BIS0326$BIS_mainwindow.coverage" NAME="BIS_mainwindow Coverage Results" MODIFIED="1490604207404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BIS0331(精简版)$BIS_main.coverage" NAME="BIS_main Coverage Results" MODIFIED="1490969862785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BIS0328$BIS_main.coverage" NAME="BIS_main Coverage Results" MODIFIED="1490663118300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BIS(双界面版)$BIS_main.coverage" NAME="BIS_main Coverage Results" MODIFIED="1492949619921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BIS0229(Binary+Version+BIS+EEG+Mark)$BIS_main.coverage" NAME="BIS_main Coverage Results" MODIFIED="1488354686151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BIS0326$Injection_port.coverage" NAME="Injection_port Coverage Results" MODIFIED="1490604001839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BIS0309(Binary+Version+BIS+EEG+Mark+Plot)$AAA_PY.coverage" NAME="AAA.PY Coverage Results" MODIFIED="1489731576206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../.." />
+    <SUITE FILE_PATH="coverage/BIS0416$BIS_main.coverage" NAME="BIS_main Coverage Results" MODIFIED="1492417403497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BIS0302(Binary+Version+BIS+EEG+Mark+Plot)$BIS_main.coverage" NAME="BIS_main Coverage Results" MODIFIED="1488763325472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="1107offline" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="BIS_main.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BIS_main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="94" column="1" selection-start-line="94" selection-start-column="1" selection-end-line="94" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+                <element signature="e#2774#3139#0" expanded="false" />
+                <element signature="e#3229#3594#0" expanded="false" />
+                <element signature="e#3690#3747#0" expanded="false" />
+                <element signature="e#3855#3924#0" expanded="false" />
+                <element signature="e#4032#4101#0" expanded="false" />
+                <element signature="e#4189#4238#0" expanded="false" />
+                <element signature="e#4328#4379#0" expanded="false" />
+                <element signature="e#4467#4516#0" expanded="false" />
+                <element signature="e#4605#4814#0" expanded="false" />
+                <element signature="e#4901#5014#0" expanded="false" />
+                <element signature="e#5112#5485#0" expanded="false" />
+                <element signature="e#5524#5818#0" expanded="false" />
+                <element signature="e#5850#5899#0" expanded="false" />
+                <element signature="e#5996#6018#0" expanded="false" />
+                <element signature="e#6127#6158#0" expanded="false" />
+                <element signature="e#6250#6303#0" expanded="false" />
+                <element signature="e#6396#6433#0" expanded="false" />
+                <element signature="e#6526#6563#0" expanded="false" />
+                <element signature="e#6656#7090#0" expanded="false" />
+                <element signature="e#7183#7617#0" expanded="false" />
+                <element signature="e#7708#8142#0" expanded="false" />
+                <element signature="e#8235#8669#0" expanded="false" />
+                <element signature="e#8762#9196#0" expanded="false" />
+                <element signature="e#9287#9721#0" expanded="false" />
+                <element signature="e#9812#10246#0" expanded="false" />
+                <element signature="e#10337#10771#0" expanded="false" />
+                <element signature="e#10862#11296#0" expanded="false" />
+                <element signature="e#11387#11821#0" expanded="false" />
+                <element signature="e#11912#12346#0" expanded="false" />
+                <element signature="e#12434#12495#0" expanded="false" />
+                <element signature="e#12585#12828#0" expanded="false" />
+                <element signature="e#12862#13115#0" expanded="false" />
+                <element signature="e#13426#13455#0" expanded="false" />
+                <element signature="e#13543#13572#0" expanded="false" />
+                <element signature="e#13662#13716#0" expanded="false" />
+                <element signature="e#13805#13834#0" expanded="false" />
+                <element signature="e#13936#14200#0" expanded="false" />
+                <element signature="e#14277#14392#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BIS_mainwindow.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BIS_mainwindow.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19550">
+              <caret line="858" column="45" selection-start-line="858" selection-start-column="45" selection-end-line="858" selection-end-column="45" />
+              <folding>
+                <element signature="e#192#223#0" expanded="true" />
+                <element signature="e#56008#56156#0" expanded="false" />
+                <element signature="e#56262#56472#0" expanded="false" />
+                <element signature="e#56579#56783#0" expanded="false" />
+                <element signature="e#56900#57096#0" expanded="false" />
+                <element signature="e#57205#57418#0" expanded="false" />
+                <element signature="e#57890#57924#0" expanded="false" />
+                <element signature="e#58031#58100#0" expanded="false" />
+                <element signature="e#58215#58288#0" expanded="false" />
+                <element signature="e#58407#58487#0" expanded="false" />
+                <element signature="e#58606#58686#0" expanded="false" />
+                <element signature="e#58793#58862#0" expanded="false" />
+                <element signature="e#58968#59028#0" expanded="false" />
+                <element signature="e#59135#59195#0" expanded="false" />
+                <element signature="e#59289#60160#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Injection_port.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Injection_port.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="598">
+              <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BIS_port.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BIS_port.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3496">
+              <caret line="238" column="6" selection-start-line="238" selection-start-column="6" selection-end-line="238" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+                <element signature="e#2844#4989#0" expanded="false" />
+                <element signature="e#6588#6633#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BIS_Version.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BIS_Version.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="736">
+              <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="34" selection-end-column="77" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BIS_Warning.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BIS_Warning.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1564">
+              <caret line="68" column="90" selection-start-line="68" selection-start-column="90" selection-end-line="68" selection-end-column="90" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BIS_offline.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BIS_offline.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BIS_Plot.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BIS_Plot.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2668">
+              <caret line="124" column="0" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Injection_setcom.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Injection_setcom.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3703">
+              <caret line="162" column="56" selection-start-line="162" selection-start-column="56" selection-end-line="162" selection-end-column="56" />
+              <folding>
+                <element signature="e#204#234#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BIS_setcom.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BIS_setcom.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3887">
+              <caret line="170" column="85" selection-start-line="170" selection-start-column="85" selection-end-line="170" selection-end-column="85" />
+              <folding>
+                <element signature="e#194#224#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/mplCanvasWrapper.py" />
+        <option value="$PROJECT_DIR$/../../../AAA.PY" />
+        <option value="$PROJECT_DIR$/InjectionSetCOM.py" />
+        <option value="$PROJECT_DIR$/Injection_SetCOM.py" />
+        <option value="$PROJECT_DIR$/BIS_setcom.py" />
+        <option value="$PROJECT_DIR$/Injection_setcom.py" />
+        <option value="$PROJECT_DIR$/BIS_offline.py" />
+        <option value="$PROJECT_DIR$/BIS_Plot.py" />
+        <option value="$PROJECT_DIR$/BIS_Version.py" />
+        <option value="$PROJECT_DIR$/BIS_Warning.py" />
+        <option value="$PROJECT_DIR$/BIS_port.py" />
+        <option value="$PROJECT_DIR$/Injection_port.py" />
+        <option value="$PROJECT_DIR$/BIS_mainwindow.py" />
+        <option value="$PROJECT_DIR$/BIS_main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BIS(双界面版)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BIS725online/code.py" />
+  </component>
+  <component name="RunManager" selected="Python.BIS_main">
+    <configuration default="false" name="BIS_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="1107offline" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BIS_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="AAA.PY" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="1107offline" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../AAA.PY" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="BIS_port" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="1107offline" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BIS_port.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Injection_port" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="1107offline" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Injection_port.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="BIS_mainwindow" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="1107offline" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BIS_mainwindow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="1107offline" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="1107offline" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="1107offline" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="1107offline" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="1107offline" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="1107offline" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="1107offline" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="1107offline" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="1107offline" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="1107offline" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.BIS_main" />
+      <item index="1" class="java.lang.String" itemvalue="Python.AAA.PY" />
+      <item index="2" class="java.lang.String" itemvalue="Python.BIS_port" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Injection_port" />
+      <item index="4" class="java.lang.String" itemvalue="Python.BIS_mainwindow" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.BIS_main" />
+        <item index="1" class="java.lang.String" itemvalue="Python.BIS_mainwindow" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Injection_port" />
+        <item index="3" class="java.lang.String" itemvalue="Python.BIS_port" />
+        <item index="4" class="java.lang.String" itemvalue="Python.AAA.PY" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5128926d-cacb-43ac-b261-7456b2729a63" name="Default" comment="" />
+      <created>1478426654127</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1478426654127</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23141123" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928678" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24342105" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20417288" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39802632" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="11" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/BIS_offline.py" />
+    <entry file="file://$PROJECT_DIR$/BIS_port.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#2844#4989#0" expanded="false" />
+            <element signature="e#6588#6633#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BIS_setcom.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4140">
+          <caret line="181" column="84" selection-start-line="181" selection-start-column="84" selection-end-line="181" selection-end-column="84" />
+          <folding>
+            <element signature="e#194#224#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BIS_Version.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mplCanvasWrapper.py" />
+    <entry file="file://$PROJECT_DIR$/BIS_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+            <element signature="e#2774#3139#0" expanded="false" />
+            <element signature="e#3229#3594#0" expanded="false" />
+            <element signature="e#3690#3747#0" expanded="false" />
+            <element signature="e#3855#3924#0" expanded="false" />
+            <element signature="e#4032#4101#0" expanded="false" />
+            <element signature="e#4189#4238#0" expanded="false" />
+            <element signature="e#4328#4379#0" expanded="false" />
+            <element signature="e#4467#4516#0" expanded="false" />
+            <element signature="e#4605#4814#0" expanded="false" />
+            <element signature="e#4901#5014#0" expanded="false" />
+            <element signature="e#5112#5485#0" expanded="false" />
+            <element signature="e#5524#5818#0" expanded="false" />
+            <element signature="e#5850#5899#0" expanded="false" />
+            <element signature="e#5996#6018#0" expanded="false" />
+            <element signature="e#6127#6158#0" expanded="false" />
+            <element signature="e#6250#6303#0" expanded="false" />
+            <element signature="e#6396#6433#0" expanded="false" />
+            <element signature="e#6526#6563#0" expanded="false" />
+            <element signature="e#6656#7090#0" expanded="false" />
+            <element signature="e#7183#7617#0" expanded="false" />
+            <element signature="e#7708#8142#0" expanded="false" />
+            <element signature="e#8235#8669#0" expanded="false" />
+            <element signature="e#8762#9196#0" expanded="false" />
+            <element signature="e#9287#9721#0" expanded="false" />
+            <element signature="e#9812#10246#0" expanded="false" />
+            <element signature="e#10337#10771#0" expanded="false" />
+            <element signature="e#10862#11296#0" expanded="false" />
+            <element signature="e#11387#11821#0" expanded="false" />
+            <element signature="e#11912#12346#0" expanded="false" />
+            <element signature="e#12434#12495#0" expanded="false" />
+            <element signature="e#12585#12828#0" expanded="false" />
+            <element signature="e#12862#13115#0" expanded="false" />
+            <element signature="e#13426#13455#0" expanded="false" />
+            <element signature="e#13543#13572#0" expanded="false" />
+            <element signature="e#13662#13716#0" expanded="false" />
+            <element signature="e#13805#13834#0" expanded="false" />
+            <element signature="e#13936#14200#0" expanded="false" />
+            <element signature="e#14277#14392#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BIS_mainwindow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8027">
+          <caret line="354" column="36" selection-start-line="354" selection-start-column="36" selection-end-line="354" selection-end-column="36" />
+          <folding>
+            <element signature="e#192#223#0" expanded="true" />
+            <element signature="e#56008#56156#0" expanded="false" />
+            <element signature="e#56262#56472#0" expanded="false" />
+            <element signature="e#56579#56783#0" expanded="false" />
+            <element signature="e#56900#57096#0" expanded="false" />
+            <element signature="e#57205#57418#0" expanded="false" />
+            <element signature="e#57890#57924#0" expanded="false" />
+            <element signature="e#58031#58100#0" expanded="false" />
+            <element signature="e#58215#58288#0" expanded="false" />
+            <element signature="e#58407#58487#0" expanded="false" />
+            <element signature="e#58606#58686#0" expanded="false" />
+            <element signature="e#58793#58862#0" expanded="false" />
+            <element signature="e#58968#59028#0" expanded="false" />
+            <element signature="e#59135#59195#0" expanded="false" />
+            <element signature="e#59289#60160#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BIS_offline.py" />
+    <entry file="file://$PROJECT_DIR$/BIS_port.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="33" column="40" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#2844#4989#0" expanded="false" />
+            <element signature="e#6588#6633#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BIS_setcom.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4140">
+          <caret line="181" column="84" selection-start-line="181" selection-start-column="84" selection-end-line="181" selection-end-column="84" />
+          <folding>
+            <element signature="e#194#224#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BIS_Version.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mplCanvasWrapper.py" />
+    <entry file="file://$PROJECT_DIR$/BIS_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="12" column="76" selection-start-line="12" selection-start-column="76" selection-end-line="12" selection-end-column="76" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+            <element signature="e#2774#3139#0" expanded="false" />
+            <element signature="e#3229#3594#0" expanded="false" />
+            <element signature="e#3690#3747#0" expanded="false" />
+            <element signature="e#3855#3924#0" expanded="false" />
+            <element signature="e#4032#4101#0" expanded="false" />
+            <element signature="e#4189#4238#0" expanded="false" />
+            <element signature="e#4328#4379#0" expanded="false" />
+            <element signature="e#4467#4516#0" expanded="false" />
+            <element signature="e#4605#4814#0" expanded="false" />
+            <element signature="e#4901#5014#0" expanded="false" />
+            <element signature="e#5112#5485#0" expanded="false" />
+            <element signature="e#5524#5818#0" expanded="false" />
+            <element signature="e#5850#5899#0" expanded="false" />
+            <element signature="e#5996#6018#0" expanded="false" />
+            <element signature="e#6127#6158#0" expanded="false" />
+            <element signature="e#6250#6303#0" expanded="false" />
+            <element signature="e#6396#6433#0" expanded="false" />
+            <element signature="e#6526#6563#0" expanded="false" />
+            <element signature="e#6656#7090#0" expanded="false" />
+            <element signature="e#7183#7617#0" expanded="false" />
+            <element signature="e#7708#8142#0" expanded="false" />
+            <element signature="e#8235#8669#0" expanded="false" />
+            <element signature="e#8762#9196#0" expanded="false" />
+            <element signature="e#9287#9721#0" expanded="false" />
+            <element signature="e#9812#10246#0" expanded="false" />
+            <element signature="e#10337#10771#0" expanded="false" />
+            <element signature="e#10862#11296#0" expanded="false" />
+            <element signature="e#11387#11821#0" expanded="false" />
+            <element signature="e#11912#12346#0" expanded="false" />
+            <element signature="e#12434#12495#0" expanded="false" />
+            <element signature="e#12585#12828#0" expanded="false" />
+            <element signature="e#12862#13115#0" expanded="false" />
+            <element signature="e#13426#13455#0" expanded="false" />
+            <element signature="e#13543#13572#0" expanded="false" />
+            <element signature="e#13662#13716#0" expanded="false" />
+            <element signature="e#13805#13834#0" expanded="false" />
+            <element signature="e#13936#14200#0" expanded="false" />
+            <element signature="e#14277#14392#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../BIS_GUI一体文件.py" />
+    <entry file="file://$PROJECT_DIR$/BIS_mainwindow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8027">
+          <caret line="354" column="36" selection-start-line="354" selection-start-column="36" selection-end-line="354" selection-end-column="36" />
+          <folding>
+            <element signature="e#192#223#0" expanded="true" />
+            <element signature="e#56008#56156#0" expanded="false" />
+            <element signature="e#56262#56472#0" expanded="false" />
+            <element signature="e#56579#56783#0" expanded="false" />
+            <element signature="e#56900#57096#0" expanded="false" />
+            <element signature="e#57205#57418#0" expanded="false" />
+            <element signature="e#57890#57924#0" expanded="false" />
+            <element signature="e#58031#58100#0" expanded="false" />
+            <element signature="e#58215#58288#0" expanded="false" />
+            <element signature="e#58407#58487#0" expanded="false" />
+            <element signature="e#58606#58686#0" expanded="false" />
+            <element signature="e#58793#58862#0" expanded="false" />
+            <element signature="e#58968#59028#0" expanded="false" />
+            <element signature="e#59135#59195#0" expanded="false" />
+            <element signature="e#59289#60160#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BIS_offline.py" />
+    <entry file="file://$PROJECT_DIR$/BIS_port.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="33" column="40" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#2844#4989#0" expanded="false" />
+            <element signature="e#6588#6633#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BIS_setcom.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4140">
+          <caret line="181" column="84" selection-start-line="181" selection-start-column="84" selection-end-line="181" selection-end-column="84" />
+          <folding>
+            <element signature="e#194#224#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BIS_Version.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mplCanvasWrapper.py" />
+    <entry file="file://$PROJECT_DIR$/BIS_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+            <element signature="e#2774#3139#0" expanded="false" />
+            <element signature="e#3229#3594#0" expanded="false" />
+            <element signature="e#3690#3747#0" expanded="false" />
+            <element signature="e#3855#3924#0" expanded="false" />
+            <element signature="e#4032#4101#0" expanded="false" />
+            <element signature="e#4189#4238#0" expanded="false" />
+            <element signature="e#4328#4379#0" expanded="false" />
+            <element signature="e#4467#4516#0" expanded="false" />
+            <element signature="e#4605#4814#0" expanded="false" />
+            <element signature="e#4901#5014#0" expanded="false" />
+            <element signature="e#5112#5485#0" expanded="false" />
+            <element signature="e#5524#5818#0" expanded="false" />
+            <element signature="e#5850#5899#0" expanded="false" />
+            <element signature="e#5996#6018#0" expanded="false" />
+            <element signature="e#6127#6158#0" expanded="false" />
+            <element signature="e#6250#6303#0" expanded="false" />
+            <element signature="e#6396#6433#0" expanded="false" />
+            <element signature="e#6526#6563#0" expanded="false" />
+            <element signature="e#6656#7090#0" expanded="false" />
+            <element signature="e#7183#7617#0" expanded="false" />
+            <element signature="e#7708#8142#0" expanded="false" />
+            <element signature="e#8235#8669#0" expanded="false" />
+            <element signature="e#8762#9196#0" expanded="false" />
+            <element signature="e#9287#9721#0" expanded="false" />
+            <element signature="e#9812#10246#0" expanded="false" />
+            <element signature="e#10337#10771#0" expanded="false" />
+            <element signature="e#10862#11296#0" expanded="false" />
+            <element signature="e#11387#11821#0" expanded="false" />
+            <element signature="e#11912#12346#0" expanded="false" />
+            <element signature="e#12434#12495#0" expanded="false" />
+            <element signature="e#12585#12828#0" expanded="false" />
+            <element signature="e#12862#13115#0" expanded="false" />
+            <element signature="e#13426#13455#0" expanded="false" />
+            <element signature="e#13543#13572#0" expanded="false" />
+            <element signature="e#13662#13716#0" expanded="false" />
+            <element signature="e#13805#13834#0" expanded="false" />
+            <element signature="e#13936#14200#0" expanded="false" />
+            <element signature="e#14277#14392#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BIS_mainwindow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8027">
+          <caret line="354" column="36" selection-start-line="354" selection-start-column="36" selection-end-line="354" selection-end-column="36" />
+          <folding>
+            <element signature="e#192#223#0" expanded="true" />
+            <element signature="e#56008#56156#0" expanded="false" />
+            <element signature="e#56262#56472#0" expanded="false" />
+            <element signature="e#56579#56783#0" expanded="false" />
+            <element signature="e#56900#57096#0" expanded="false" />
+            <element signature="e#57205#57418#0" expanded="false" />
+            <element signature="e#57890#57924#0" expanded="false" />
+            <element signature="e#58031#58100#0" expanded="false" />
+            <element signature="e#58215#58288#0" expanded="false" />
+            <element signature="e#58407#58487#0" expanded="false" />
+            <element signature="e#58606#58686#0" expanded="false" />
+            <element signature="e#58793#58862#0" expanded="false" />
+            <element signature="e#58968#59028#0" expanded="false" />
+            <element signature="e#59135#59195#0" expanded="false" />
+            <element signature="e#59289#60160#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BIS_offline.py" />
+    <entry file="file://$PROJECT_DIR$/BIS_port.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="33" column="40" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#2844#4989#0" expanded="false" />
+            <element signature="e#6588#6633#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BIS_setcom.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4140">
+          <caret line="181" column="84" selection-start-line="181" selection-start-column="84" selection-end-line="181" selection-end-column="84" />
+          <folding>
+            <element signature="e#194#224#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BIS_Version.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mplCanvasWrapper.py" />
+    <entry file="file://$PROJECT_DIR$/../BIS_GUI一体文件.py" />
+    <entry file="file://$PROJECT_DIR$/mplCanvasWrapper.py" />
+    <entry file="file://$PROJECT_DIR$/../../../AAA.PY" />
+    <entry file="file://$PROJECT_DIR$/GUI.py" />
+    <entry file="file://$PROJECT_DIR$/../../../Data Reading Program/BIS_mainwindow.py" />
+    <entry file="file://$PROJECT_DIR$/../../../BIS_mainwindow.py" />
+    <entry file="file://$PROJECT_DIR$/InjectionSetCOM.py" />
+    <entry file="file://D:/Anaconda3/Lib/site-packages/matplotlib/ticker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="1284" column="0" selection-start-line="1284" selection-start-column="0" selection-end-line="1284" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/Lib/site-packages/matplotlib/axis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="1160" column="0" selection-start-line="1160" selection-start-column="0" selection-end-line="1160" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/Lib/threading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="861" column="0" selection-start-line="861" selection-start-column="0" selection-end-line="861" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BIS_setcom.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3887">
+          <caret line="170" column="85" selection-start-line="170" selection-start-column="85" selection-end-line="170" selection-end-column="85" />
+          <folding>
+            <element signature="e#194#224#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/Lib/runpy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="95" column="0" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda3/Lib/multiprocessing/spawn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="105" column="0" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Injection_setcom.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3703">
+          <caret line="162" column="56" selection-start-line="162" selection-start-column="56" selection-end-line="162" selection-end-column="56" />
+          <folding>
+            <element signature="e#204#234#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BIS_offline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BIS_Plot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2668">
+          <caret line="124" column="0" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../GUI(4月版)/BIS_Value.py" />
+    <entry file="file://$PROJECT_DIR$/BIS_Value.py" />
+    <entry file="file://$PROJECT_DIR$/BIS_port.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3496">
+          <caret line="238" column="6" selection-start-line="238" selection-start-column="6" selection-end-line="238" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#2844#4989#0" expanded="false" />
+            <element signature="e#6588#6633#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BIS_Version.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="34" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BIS_Warning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1564">
+          <caret line="68" column="90" selection-start-line="68" selection-start-column="90" selection-end-line="68" selection-end-column="90" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Injection_port.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BIS_mainwindow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19550">
+          <caret line="858" column="45" selection-start-line="858" selection-start-column="45" selection-end-line="858" selection-end-column="45" />
+          <folding>
+            <element signature="e#192#223#0" expanded="true" />
+            <element signature="e#56008#56156#0" expanded="false" />
+            <element signature="e#56262#56472#0" expanded="false" />
+            <element signature="e#56579#56783#0" expanded="false" />
+            <element signature="e#56900#57096#0" expanded="false" />
+            <element signature="e#57205#57418#0" expanded="false" />
+            <element signature="e#57890#57924#0" expanded="false" />
+            <element signature="e#58031#58100#0" expanded="false" />
+            <element signature="e#58215#58288#0" expanded="false" />
+            <element signature="e#58407#58487#0" expanded="false" />
+            <element signature="e#58606#58686#0" expanded="false" />
+            <element signature="e#58793#58862#0" expanded="false" />
+            <element signature="e#58968#59028#0" expanded="false" />
+            <element signature="e#59135#59195#0" expanded="false" />
+            <element signature="e#59289#60160#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BIS_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="94" column="1" selection-start-line="94" selection-start-column="1" selection-end-line="94" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+            <element signature="e#2774#3139#0" expanded="false" />
+            <element signature="e#3229#3594#0" expanded="false" />
+            <element signature="e#3690#3747#0" expanded="false" />
+            <element signature="e#3855#3924#0" expanded="false" />
+            <element signature="e#4032#4101#0" expanded="false" />
+            <element signature="e#4189#4238#0" expanded="false" />
+            <element signature="e#4328#4379#0" expanded="false" />
+            <element signature="e#4467#4516#0" expanded="false" />
+            <element signature="e#4605#4814#0" expanded="false" />
+            <element signature="e#4901#5014#0" expanded="false" />
+            <element signature="e#5112#5485#0" expanded="false" />
+            <element signature="e#5524#5818#0" expanded="false" />
+            <element signature="e#5850#5899#0" expanded="false" />
+            <element signature="e#5996#6018#0" expanded="false" />
+            <element signature="e#6127#6158#0" expanded="false" />
+            <element signature="e#6250#6303#0" expanded="false" />
+            <element signature="e#6396#6433#0" expanded="false" />
+            <element signature="e#6526#6563#0" expanded="false" />
+            <element signature="e#6656#7090#0" expanded="false" />
+            <element signature="e#7183#7617#0" expanded="false" />
+            <element signature="e#7708#8142#0" expanded="false" />
+            <element signature="e#8235#8669#0" expanded="false" />
+            <element signature="e#8762#9196#0" expanded="false" />
+            <element signature="e#9287#9721#0" expanded="false" />
+            <element signature="e#9812#10246#0" expanded="false" />
+            <element signature="e#10337#10771#0" expanded="false" />
+            <element signature="e#10862#11296#0" expanded="false" />
+            <element signature="e#11387#11821#0" expanded="false" />
+            <element signature="e#11912#12346#0" expanded="false" />
+            <element signature="e#12434#12495#0" expanded="false" />
+            <element signature="e#12585#12828#0" expanded="false" />
+            <element signature="e#12862#13115#0" expanded="false" />
+            <element signature="e#13426#13455#0" expanded="false" />
+            <element signature="e#13543#13572#0" expanded="false" />
+            <element signature="e#13662#13716#0" expanded="false" />
+            <element signature="e#13805#13834#0" expanded="false" />
+            <element signature="e#13936#14200#0" expanded="false" />
+            <element signature="e#14277#14392#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
